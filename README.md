@@ -62,7 +62,7 @@ Senior SEO Specialist, Staff Expert · International IT and technology projects
 
 <sub>2026</sub>  
 **Independent products**  
-Keywordly.top, WorldBible.app · Product development and personal brand
+[Keywordly.top](https://keywordly.top/), [WorldBible.app](https://worldbible.app/) · Product development and personal brand
 
 <br>
 
@@ -72,15 +72,14 @@ Keywordly.top, WorldBible.app · Product development and personal brand
 
 <img src="assets/tech/html5.svg" width="20" height="20" alt="">&nbsp;HTML5 &nbsp;·&nbsp; <img src="assets/tech/css3.svg" width="20" height="20" alt="">&nbsp;CSS3 &nbsp;·&nbsp; <img src="assets/tech/javascript.svg" width="20" height="20" alt="">&nbsp;JavaScript &nbsp;·&nbsp; <img src="assets/tech/typescript.svg" width="20" height="20" alt="">&nbsp;TypeScript
 
-<img src="assets/tech/react.svg" width="20" height="20" alt="">&nbsp;React &nbsp;·&nbsp; <img src="assets/tech/nextjs.svg" width="20" height="20" alt="">&nbsp;Next.js &nbsp;·&nbsp; <img src="assets/tech/shadcnui.svg" width="20" height="20" alt="">&nbsp;shadcn/ui &nbsp;·&nbsp; <img src="assets/tech/zustand.svg" width="20" height="20" alt="">&nbsp;Zustand
+<img src="assets/tech/react.svg" width="20" height="20" alt="">&nbsp;React &nbsp;·&nbsp; <img src="assets/tech/nextjs.svg" width="20" height="20" alt="">&nbsp;Next.js &nbsp;·&nbsp; <img src="assets/tech/shadcnui.svg" width="20" height="20" alt="">&nbsp;shadcn/ui
 
 **Backend & APIs**
 
 <img src="assets/tech/python.svg" width="20" height="20" alt="">&nbsp;Python &nbsp;·&nbsp; <img src="assets/tech/nodejs.svg" width="20" height="20" alt="">&nbsp;Node.js &nbsp;·&nbsp; <img src="assets/tech/fastapi.svg" width="20" height="20" alt="">&nbsp;FastAPI &nbsp;·&nbsp; <img src="assets/tech/php.svg" width="20" height="20" alt="">&nbsp;PHP
 
-<img src="assets/tech/sqlalchemy.svg" width="20" height="20" alt="">&nbsp;SQLAlchemy &nbsp;·&nbsp; <img src="assets/tech/prisma.svg" width="20" height="20" alt="">&nbsp;Prisma &nbsp;·&nbsp; <img src="assets/tech/rest-api.svg" width="20" height="20" alt="">&nbsp;REST API &nbsp;·&nbsp; <img src="assets/tech/telegram-bot-api.svg" width="20" height="20" alt="">&nbsp;Telegram Bot API
+<img src="assets/tech/sqlalchemy.svg" width="20" height="20" alt="">&nbsp;SQLAlchemy &nbsp;·&nbsp; <img src="assets/tech/prisma.svg" width="20" height="20" alt="">&nbsp;Prisma &nbsp;·&nbsp; <img src="assets/tech/telegram-bot-api.svg" width="20" height="20" alt="">&nbsp;Telegram Bot API
 
-<img src="assets/tech/aiogram.svg" width="20" height="20" alt="">&nbsp;Aiogram
 
 **Databases**
 
@@ -98,20 +97,20 @@ Keywordly.top, WorldBible.app · Product development and personal brand
 
 <img src="assets/tech/openai.svg" width="20" height="20" alt="">&nbsp;OpenAI API &nbsp;·&nbsp; <img src="assets/tech/chatgpt.svg" width="20" height="20" alt="">&nbsp;ChatGPT &nbsp;·&nbsp; <img src="assets/tech/deepseek.svg" width="20" height="20" alt="">&nbsp;DeepSeek &nbsp;·&nbsp; <img src="assets/tech/grok.svg" width="20" height="20" alt="">&nbsp;Grok
 
-<img src="assets/tech/beautiful-soup.svg" width="20" height="20" alt="">&nbsp;Beautiful Soup &nbsp;·&nbsp; <img src="assets/tech/selenium.svg" width="20" height="20" alt="">&nbsp;Selenium &nbsp;·&nbsp; <img src="assets/tech/pandas.svg" width="20" height="20" alt="">&nbsp;Pandas
+<img src="assets/tech/selenium.svg" width="20" height="20" alt="">&nbsp;Selenium &nbsp;·&nbsp; <img src="assets/tech/pandas.svg" width="20" height="20" alt="">&nbsp;Pandas
 
 **CMS**
 
-<img src="assets/tech/wordpress.svg" width="20" height="20" alt="">&nbsp;WordPress &nbsp;·&nbsp; <img src="assets/tech/bitrix.svg" width="20" height="20" alt="">&nbsp;1C-Bitrix &nbsp;·&nbsp; <img src="assets/tech/strapi.svg" width="20" height="20" alt="">&nbsp;Strapi
+<img src="assets/tech/wordpress.svg" width="20" height="20" alt="">&nbsp;WordPress &nbsp;·&nbsp; <img src="assets/tech/strapi.svg" width="20" height="20" alt="">&nbsp;Strapi
 
 <details>
 <summary>Marketing stack</summary>
 
 **SEO, GEO & AEO**
 
-<img src="assets/tech/ahrefs.svg" width="20" height="20" alt="">&nbsp;Ahrefs &nbsp;·&nbsp; <img src="assets/tech/google-search-console.svg" width="20" height="20" alt="">&nbsp;Google Search Console &nbsp;·&nbsp; <img src="assets/tech/yandex-webmaster.svg" width="20" height="20" alt="">&nbsp;Yandex Webmaster &nbsp;·&nbsp; <img src="assets/tech/yandex-wordstat.svg" width="20" height="20" alt="">&nbsp;Yandex Wordstat
+<img src="assets/tech/ahrefs.svg" width="20" height="20" alt="">&nbsp;Ahrefs &nbsp;·&nbsp; <img src="assets/tech/google-search-console.svg" width="20" height="20" alt="">&nbsp;Google Search Console &nbsp;·&nbsp; <img src="assets/tech/yandex.svg" width="20" height="20" alt="">&nbsp;Yandex Webmaster &nbsp;·&nbsp; <img src="assets/tech/yandex.svg" width="20" height="20" alt="">&nbsp;Yandex Wordstat
 
-<img src="assets/tech/bing-webmaster-tools.svg" width="20" height="20" alt="">&nbsp;Bing Webmaster Tools &nbsp;·&nbsp; <img src="assets/tech/pagespeed-insights.svg" width="20" height="20" alt="">&nbsp;PageSpeed Insights &nbsp;·&nbsp; <img src="assets/tech/schema-org.svg" width="20" height="20" alt="">&nbsp;Schema.org &nbsp;·&nbsp; <img src="assets/tech/indexnow.svg" width="20" height="20" alt="">&nbsp;IndexNow
+<img src="assets/tech/bing-webmaster-tools.svg" width="20" height="20" alt="">&nbsp;Bing Webmaster Tools &nbsp;·&nbsp; <img src="assets/tech/pagespeed-insights.svg" width="20" height="20" alt="">&nbsp;PageSpeed Insights
 
 **Advertising**
 
@@ -143,25 +142,17 @@ Keywordly.top, WorldBible.app · Product development and personal brand
 
 ### Webinars
 
-<sub>23 July 2026</sub>  
-[PR and brand awareness for B2B IT products ↗](https://hightime.agency/events/)
+<sub>21 May 2026</sub>
 
-<sub>21 May 2026</sub>  
-[IT product marketing through industry media ↗](https://hightime.agency/activities/mql-for-tech)
+**Продвижение ИТ‑продуктов на отраслевых СМИ: как за 3 месяца завалить отдел продаж заявками через статьи на TAdviser, Бизнес Секретах, Habr и CNews**
 
-<sub>5 February 2026</sub>  
-[AI search marketing for IT companies (GEO) ↗](https://hightime.agency/activities/ai-marketing-v-it-tech)
+<img src="assets/events/media.png" alt="Продвижение ИТ‑продуктов на отраслевых СМИ: как за 3 месяца завалить отдел продаж заявками через статьи на TAdviser, Бизнес Секретах, Habr и CNews" width="1000">
 
-<details>
-<summary>Upcoming webinars</summary>
+<sub>5 February 2026</sub>
 
-22 April 2027 — Content marketing for IT companies.  
-24 June 2027 — IT product marketing through industry media.
+**Продвижение ИТ-компаний в нейросетях (GEO): Разбираем метод покрытия поисковых слоёв, чтобы ChatGPT, Perplexity**
 
-[Event details ↗](https://hightime.agency/events/). Dates and programme may change.
-</details>
-
-<sub>Organized by HighTime Agency. No speaking role is claimed.</sub>
+<img src="assets/events/geo.png" alt="Продвижение ИТ-компаний в нейросетях (GEO): Разбираем метод покрытия поисковых слоёв, чтобы ChatGPT, Perplexity" width="480">
 
 <br>
 

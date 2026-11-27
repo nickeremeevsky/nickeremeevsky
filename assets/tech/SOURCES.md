@@ -33,13 +33,6 @@ Simple Icons: https://github.com/simple-icons/simple-icons (CC0 project; individ
 - `nodejs.svg`: Font Awesome Brands (node-js.svg)
 - `vscode.svg`: Devicon VS Code original SVG mask, monochrome rendition: https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg
 - `playwright.svg`: Devicon: https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg
-- `datalens.svg`: Official DataLens open-source logo: https://github.com/datalens-tech/datalens-ui/blob/main/src/ui/assets/icons/os-logo.svg (unused clip reference removed)
-- `zustand.svg`: Neutral original pictogram, not a brand logo
-- `rest-api.svg`: Neutral original pictogram, not a brand logo
-- `beautiful-soup.svg`: Neutral original pictogram, not a brand logo
-- `bitrix.svg`: Neutral original pictogram, not a brand logo
-- `yandex-metrika.svg`: Neutral original pictogram, not a brand logo
-- `yandex-webmaster.svg`: Neutral original pictogram, not a brand logo
 
 ## V14 additions
 
@@ -56,8 +49,9 @@ Simple Icons: https://github.com/simple-icons/simple-icons (CC0 project; individ
 - `deepseek.svg`: Lobe Icons, https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/deepseek-color.svg
 - `ahrefs.svg`: SVGL: https://github.com/pheralb/svgl/blob/main/static/library/ahrefs.svg
 - `bing-webmaster-tools.svg`: Lobe Icons Bing parent brand, single-color adaptation: https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/bing-color.svg
-- `aiogram.svg`: Neutral pictogram, not a verified brand logo.
-- `yandex-wordstat.svg`: Neutral pictogram, not a verified brand logo.
-- `schema-org.svg`: Neutral pictogram, not a verified brand logo.
-- `indexnow.svg`: Neutral pictogram, not a verified brand logo.
-- `yandex-direct.svg`: Neutral pictogram, not a verified brand logo.
+
+## Editorial revision — 2026-11-27
+
+Seven generic-pictogram entries removed: Zustand, REST API, Aiogram, Beautiful Soup, 1C-Bitrix, Schema.org, IndexNow.
+
+- `yandex-direct.svg`, `yandex-metrika.svg`, `datalens.svg`, `yandex.svg`: SVG artwork supplied by the site owner, retained without redrawing. The latter is the parent Yandex mark used for Webmaster and Wordstat, not a separate product mark. Original brand-kit provenance is not independently verified.
