@@ -22,12 +22,6 @@ B2B SaaS for tracking search rankings and brand mentions in search and AI-genera
 
 <img src="assets/projects/keywordly-queries.webp" alt="Keywordly keyword groups" width="365"> <img src="assets/projects/keywordly-brand.webp" alt="Keywordly brand monitoring" width="365">
 
-**Service status**
-
-<img src="assets/projects/keywordly-status.webp" alt="Keywordly service status" width="520">
-
-<sub>Demo data / Russian-language interface</sub>
-
 **[WorldBible.app](https://worldbible.app/)**
 
 <sub>In development</sub>
